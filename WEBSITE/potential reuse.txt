@@ -1,8 +1,0 @@
- <h1>1st container</h1>
-
-	 <p>omae ha mou shindeiru
-	 <h2>2. Avatar</h2>
-	 <img src="images/girl.jpg" alt="model" class="avatar">
-
-	 <h2>3.button</h2>
-	 <a href="#" class="btn-blue">Submit</a>
