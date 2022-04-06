@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@100&family=Ubuntu&display=swap');
 
-@import	url("components/container.css");
+@import	url("container.css");
 
-@import url("components/avatar.css");
+@import url("avatar.css");
 
-@import url("components/button.css");
+@import url("button.css");
 
-@import url("components/banner.css");
+@import url("banner.css");
 
-@import	url("components/flex-card.css");
+@import	url("flex-card.css");
 
-@import	url("components/menu-blue.css");
+@import	url("menu-blue.css");
 
-@import	url("components/leftimage.css");
+@import	url("leftimage.css");
 
 
 body{
