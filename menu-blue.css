@@ -10,7 +10,8 @@
 	color: white;
 	font-weight: bolder;
 	padding: 30px;
-	margin: auto;
+	margin: 10px auto;
+	padding-top: 25px;
 }
 
 .menu-links:hover {
@@ -21,5 +22,8 @@
 .menu-list {
 	list-style: none;
 	display: inline-flex;
-	
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: auto;
+	line-height: 40px;
 }
