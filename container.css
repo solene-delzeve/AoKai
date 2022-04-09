@@ -1,6 +1,6 @@
 .container {
 	width: 700px;
-	margin: 20px auto;
+	margin: auto;
 }
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
@@ -17,6 +17,15 @@
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
-    width: 300px;
+    width: 350px;
+  }
+
+  .cards {
+    flex-basis: 180px;
+    flex-wrap: 1;
+  }
+
+  .banner h1 {
+    font-size: 60px;
   }
 }
